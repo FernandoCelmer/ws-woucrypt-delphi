@@ -1,5 +1,7 @@
 # [ws-woucrypt-02]
 
+É uma aplicação para criptografia de texto. O programa permite criar uma chave de segurança digitada pelo próprio usuário ou gerada aleatoriamente pelo programa.
+
 Site: www.fernandocelmer.com
 </br>
 E-mail: email@fernandocelmer.com
