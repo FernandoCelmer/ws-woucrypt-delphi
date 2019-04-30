@@ -1970,8 +1970,6 @@ object Form1: TForm1
         Height = 25
         Cursor = crHandPoint
         Caption = 'BitBtn2'
-        DoubleBuffered = True
-        ParentDoubleBuffered = False
         TabOrder = 3
         Visible = False
         OnClick = BitBtn2Click
@@ -2011,7 +2009,6 @@ object Form1: TForm1
             Height = 35
             Cursor = crHandPoint
             Hint = 'Abrir Texto'
-            DoubleBuffered = True
             Glyph.Data = {
               36120000424D3612000000000000360000002800000030000000180000000100
               20000000000000120000120B0000120B00000000000000000000FFFFFF00FFFF
@@ -2160,7 +2157,6 @@ object Form1: TForm1
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFF
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00}
             NumGlyphs = 2
-            ParentDoubleBuffered = False
             ParentShowHint = False
             ShowHint = True
             TabOrder = 1
@@ -2173,7 +2169,6 @@ object Form1: TForm1
             Height = 35
             Cursor = crHandPoint
             Hint = 'Copiar Texto'
-            DoubleBuffered = True
             Glyph.Data = {
               36120000424D3612000000000000360000002800000030000000180000000100
               20000000000000120000120B0000120B00000000000000000000FFFFFF00FFFF
@@ -2322,7 +2317,6 @@ object Form1: TForm1
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFF
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00}
             NumGlyphs = 2
-            ParentDoubleBuffered = False
             ParentShowHint = False
             ShowHint = True
             TabOrder = 2
@@ -2335,7 +2329,6 @@ object Form1: TForm1
             Height = 35
             Cursor = crHandPoint
             Hint = 'Colar Texto'
-            DoubleBuffered = True
             Glyph.Data = {
               36120000424D3612000000000000360000002800000030000000180000000100
               20000000000000120000120B0000120B00000000000000000000FFFFFF00FFFF
@@ -2484,7 +2477,6 @@ object Form1: TForm1
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFF
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00}
             NumGlyphs = 2
-            ParentDoubleBuffered = False
             ParentShowHint = False
             ShowHint = True
             TabOrder = 3
@@ -2497,7 +2489,6 @@ object Form1: TForm1
             Height = 35
             Cursor = crHandPoint
             Hint = 'Limpar Texto'
-            DoubleBuffered = True
             Glyph.Data = {
               B60D0000424DB60D000000000000360000002800000030000000180000000100
               180000000000800D0000120B0000120B00000000000000000000FFFFFFFFFFFF
@@ -2610,7 +2601,6 @@ object Form1: TForm1
               FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
               FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF}
             NumGlyphs = 2
-            ParentDoubleBuffered = False
             ParentShowHint = False
             ShowHint = True
             TabOrder = 4
@@ -2624,7 +2614,6 @@ object Form1: TForm1
             Cursor = crHandPoint
             Hint = 'Criptografar Texto'
             Caption = 'EnCrypt'
-            DoubleBuffered = True
             Glyph.Data = {
               B60D0000424DB60D000000000000360000002800000030000000180000000100
               180000000000800D000000000000000000000000000000000000FFFFFFFFFFFF
@@ -2737,7 +2726,6 @@ object Form1: TForm1
               FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
               FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF}
             NumGlyphs = 2
-            ParentDoubleBuffered = False
             TabOrder = 0
             OnClick = BitBtn7Click
           end
@@ -2875,7 +2863,6 @@ object Form1: TForm1
             Height = 35
             Cursor = crHandPoint
             Hint = 'Abrir Texto'
-            DoubleBuffered = True
             Enabled = False
             Glyph.Data = {
               36120000424D3612000000000000360000002800000030000000180000000100
@@ -3025,7 +3012,6 @@ object Form1: TForm1
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFF
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00}
             NumGlyphs = 2
-            ParentDoubleBuffered = False
             ParentShowHint = False
             ShowHint = True
             TabOrder = 1
@@ -3038,7 +3024,6 @@ object Form1: TForm1
             Height = 35
             Cursor = crHandPoint
             Hint = 'Salvar Texto'
-            DoubleBuffered = True
             Enabled = False
             Glyph.Data = {
               36120000424D3612000000000000360000002800000030000000180000000100
@@ -3188,7 +3173,6 @@ object Form1: TForm1
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFF
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00}
             NumGlyphs = 2
-            ParentDoubleBuffered = False
             ParentShowHint = False
             ShowHint = True
             TabOrder = 2
@@ -3201,7 +3185,6 @@ object Form1: TForm1
             Height = 35
             Cursor = crHandPoint
             Hint = 'Copiar Texto'
-            DoubleBuffered = True
             Enabled = False
             Glyph.Data = {
               36120000424D3612000000000000360000002800000030000000180000000100
@@ -3351,7 +3334,6 @@ object Form1: TForm1
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFF
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00}
             NumGlyphs = 2
-            ParentDoubleBuffered = False
             ParentShowHint = False
             ShowHint = True
             TabOrder = 3
@@ -3364,7 +3346,6 @@ object Form1: TForm1
             Height = 35
             Cursor = crHandPoint
             Hint = 'Colar Texto'
-            DoubleBuffered = True
             Enabled = False
             Glyph.Data = {
               36120000424D3612000000000000360000002800000030000000180000000100
@@ -3514,7 +3495,6 @@ object Form1: TForm1
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFF
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00}
             NumGlyphs = 2
-            ParentDoubleBuffered = False
             ParentShowHint = False
             ShowHint = True
             TabOrder = 4
@@ -3527,7 +3507,6 @@ object Form1: TForm1
             Height = 35
             Cursor = crHandPoint
             Hint = 'Limpar Texto'
-            DoubleBuffered = True
             Enabled = False
             Glyph.Data = {
               B60D0000424DB60D000000000000360000002800000030000000180000000100
@@ -3641,7 +3620,6 @@ object Form1: TForm1
               FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
               FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF}
             NumGlyphs = 2
-            ParentDoubleBuffered = False
             ParentShowHint = False
             ShowHint = True
             TabOrder = 5
@@ -3655,7 +3633,6 @@ object Form1: TForm1
             Cursor = crHandPoint
             Hint = 'Criptografar Texto'
             Caption = 'EnCrypt'
-            DoubleBuffered = True
             Enabled = False
             Glyph.Data = {
               B60D0000424DB60D000000000000360000002800000030000000180000000100
@@ -3769,7 +3746,6 @@ object Form1: TForm1
               FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
               FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF}
             NumGlyphs = 2
-            ParentDoubleBuffered = False
             TabOrder = 0
             OnClick = BitBtn_criptClick
           end
@@ -3782,7 +3758,6 @@ object Form1: TForm1
           Cursor = crHandPoint
           Hint = 'Salvar Texto'
           Align = alRight
-          DoubleBuffered = True
           Enabled = False
           Glyph.Data = {
             36120000424D3612000000000000360000002800000030000000180000000100
@@ -3932,7 +3907,6 @@ object Form1: TForm1
             FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFF
             FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00}
           NumGlyphs = 2
-          ParentDoubleBuffered = False
           TabOrder = 3
           OnClick = BitBtn_salvar1_decriptClick
         end
@@ -3968,10 +3942,6 @@ object Form1: TForm1
         AlignWithMargins = True
         Caption = 'DECRYPT'
         ImageIndex = 1
-        ExplicitLeft = 0
-        ExplicitTop = 0
-        ExplicitWidth = 0
-        ExplicitHeight = 0
         object Panel3: TPanel
           Left = 0
           Top = 0
@@ -3987,7 +3957,6 @@ object Form1: TForm1
             Height = 35
             Cursor = crHandPoint
             Hint = 'Abrir Texto'
-            DoubleBuffered = True
             Enabled = False
             Glyph.Data = {
               36120000424D3612000000000000360000002800000030000000180000000100
@@ -4137,7 +4106,6 @@ object Form1: TForm1
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFF
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00}
             NumGlyphs = 2
-            ParentDoubleBuffered = False
             ParentShowHint = False
             ShowHint = True
             TabOrder = 1
@@ -4150,7 +4118,6 @@ object Form1: TForm1
             Height = 35
             Cursor = crHandPoint
             Hint = 'Limpar Texto'
-            DoubleBuffered = True
             Enabled = False
             Glyph.Data = {
               B60D0000424DB60D000000000000360000002800000030000000180000000100
@@ -4264,7 +4231,6 @@ object Form1: TForm1
               FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
               FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF}
             NumGlyphs = 2
-            ParentDoubleBuffered = False
             TabOrder = 5
             OnClick = BitBtn_limpar_decriptClick
           end
@@ -4275,7 +4241,6 @@ object Form1: TForm1
             Height = 35
             Cursor = crHandPoint
             Hint = 'Copiar Texto'
-            DoubleBuffered = True
             Enabled = False
             Glyph.Data = {
               36120000424D3612000000000000360000002800000030000000180000000100
@@ -4425,7 +4390,6 @@ object Form1: TForm1
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFF
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00}
             NumGlyphs = 2
-            ParentDoubleBuffered = False
             TabOrder = 3
             OnClick = BitBtn_copiar_decriptClick
           end
@@ -4436,7 +4400,6 @@ object Form1: TForm1
             Height = 35
             Cursor = crHandPoint
             Hint = 'Colar Texto'
-            DoubleBuffered = True
             Enabled = False
             Glyph.Data = {
               36120000424D3612000000000000360000002800000030000000180000000100
@@ -4586,7 +4549,6 @@ object Form1: TForm1
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFF
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00}
             NumGlyphs = 2
-            ParentDoubleBuffered = False
             TabOrder = 4
             OnClick = BitBtn_colar_decriptClick
           end
@@ -4597,7 +4559,6 @@ object Form1: TForm1
             Height = 35
             Cursor = crHandPoint
             Hint = 'Salvar Texto'
-            DoubleBuffered = True
             Enabled = False
             Glyph.Data = {
               36120000424D3612000000000000360000002800000030000000180000000100
@@ -4747,7 +4708,6 @@ object Form1: TForm1
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFF
               FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00}
             NumGlyphs = 2
-            ParentDoubleBuffered = False
             TabOrder = 2
             OnClick = BitBtn_salvar_decriptClick
           end
@@ -4759,7 +4719,6 @@ object Form1: TForm1
             Cursor = crHandPoint
             Hint = 'Decriptografar Texto'
             Caption = 'EnDecrypt'
-            DoubleBuffered = True
             Enabled = False
             Glyph.Data = {
               B60D0000424DB60D000000000000360000002800000030000000180000000100
@@ -4873,7 +4832,6 @@ object Form1: TForm1
               FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
               FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF}
             NumGlyphs = 2
-            ParentDoubleBuffered = False
             TabOrder = 0
             OnClick = BitBtn_decriptClick
           end
@@ -4905,7 +4863,6 @@ object Form1: TForm1
           Cursor = crHandPoint
           Hint = 'Salvar Texto'
           Align = alRight
-          DoubleBuffered = True
           Enabled = False
           Glyph.Data = {
             36120000424D3612000000000000360000002800000030000000180000000100
@@ -5055,7 +5012,6 @@ object Form1: TForm1
             FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFF
             FF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00FFFFFF00}
           NumGlyphs = 2
-          ParentDoubleBuffered = False
           ParentShowHint = False
           ShowHint = True
           TabOrder = 3
@@ -5105,8 +5061,8 @@ object Form1: TForm1
     Visible = False
   end
   object Memo_Portugues: TMemo
-    Left = 288
-    Top = 170
+    Left = 267
+    Top = 153
     Width = 230
     Height = 314
     Lines.Strings = (
@@ -5137,8 +5093,8 @@ object Form1: TForm1
     Visible = False
   end
   object Idioma: TMemo
-    Left = 644
-    Top = 122
+    Left = 518
+    Top = 153
     Width = 213
     Height = 314
     Lines.Strings = (
@@ -5239,7 +5195,7 @@ object Form1: TForm1
     Left = 656
     Top = 72
     Bitmap = {
-      494C010102000800B80010001000FFFFFFFFFF10FFFFFFFFFFFFFFFF424D3600
+      494C010102000800040010001000FFFFFFFFFF10FFFFFFFFFFFFFFFF424D3600
       0000000000003600000028000000400000001000000001002000000000000010
       0000000000000000000000000000000000000000000000000000000000000000
       0000000000000000000000000000000000000000000000000000000000000000
@@ -5401,7 +5357,7 @@ object Form1: TForm1
     Enabled = False
     Interval = 100
     OnTimer = Timer_ReiniciarTimer
-    Left = 600
-    Top = 128
+    Left = 824
+    Top = 120
   end
 end

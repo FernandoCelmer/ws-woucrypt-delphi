@@ -6,7 +6,7 @@ uses
   Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
   Dialogs, StdCtrls, Buttons, Menus, ComCtrls, pngimage, ExtCtrls, ExtDlgs,Registry,
   jpeg, IdBaseComponent, IdAntiFreezeBase, IdAntiFreeze, Gauges, ImgList,ShellAPI,
-  OleCtrls, SHDocVw, FileCtrl, DB, ADODB;
+  OleCtrls, SHDocVw, FileCtrl, DB, ADODB, System.ImageList;
 
 type
   TForm1 = class(TForm)
